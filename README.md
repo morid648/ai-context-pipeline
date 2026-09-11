@@ -158,6 +158,12 @@ Navigate to `http://localhost:8501` in your browser.
 
 ---
 
+**Built by :**
+- [Anshul](https://github.com/morid648) 
+- [LinkedIn](https://www.linkedin.com/in/anshul-chaudhary-508138308/)
+
+---
+
 ## License
 
 Distributed under the [MIT License](LICENSE). See `LICENSE` for more information.
