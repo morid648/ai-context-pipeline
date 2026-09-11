@@ -1,0 +1,19 @@
+# Core Application & Agent Framework
+streamlit>=1.35.0
+pixeltable>=0.7.0
+pixelagent>=0.1.5
+openai>=1.50.0
+
+# Vector Embeddings & Machine Learning
+sentence-transformers>=3.0.0
+torch>=2.2.0
+transformers>=4.40.0
+pypdfium2>=4.0.0
+
+# Vector Storage & Utilities
+lancedb>=0.10.0
+tqdm>=4.66.0
+
+# Interactive Notebook Environment
+jupyter>=1.0.0
+ipywidgets>=8.0.0
